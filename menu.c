@@ -3,7 +3,7 @@
 int main()
 {
     char op;
-
+    //printf("Enter the character: ");
     printf("<------Welcome to A's Dhaba----->\n");
     printf("Select what you want-->\n");
     printf("1.Starter\n2.Main Course\n3.Desserts\n4.Beverages\n5.Exit\n");
