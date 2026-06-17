@@ -24,7 +24,7 @@ int main()
 
         case '3':
         printf("You have choosed Desserts\n");
-        printf("1. Chicken Biryani\n2. Veg Rice\n3. Paneer Rice\n4.Exit\n");
+        printf("1. Ice Cream\n2. Veg Rice\n3. Paneer Rice\n4.Exit\n");
         break;
 
         case '4':
